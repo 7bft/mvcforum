@@ -1,5 +1,5 @@
 ﻿/*--- Bootstrap Overides ---*/
-.container-fluid { max-width: 1000px; margin-left: auto; margin-right: auto; }
+.container-fluid { margin-left: auto; margin-right: auto; }
 .navbar .brand { padding-top: 5px; padding-bottom: 3px; }
 .btn-group { margin-top: 10px; margin-bottom: 10px; }
 hr { border-top: 1px solid #3C3C35; border-bottom: 1px solid #CDCDCD; }
