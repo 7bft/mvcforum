@@ -94,7 +94,7 @@
         @Html.Partial("_NoScript")
         <div id="main" class="row-fluid mainbody">
 
-            <div class="span9">
+            <div class="span10">
                 
                 @* ### Remove ME - Not needed, just for our forum ### *@
                 @* @Html.Partial("_DocumentationBlock") *@
@@ -102,7 +102,7 @@
 
                 @RenderBody()
             </div>
-            <div class="span3 sidelayoutsection">
+            <div class="span2 sidelayoutsection">
                 <div class="main-side-box">
                     @if (User.Identity.IsAuthenticated)
                     {
