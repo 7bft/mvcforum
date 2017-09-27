@@ -1,5 +1,5 @@
 ﻿/*--- Bootstrap Overides ---*/
-.container-fluid { margin-left: auto; margin-right: auto; }
+.container-fluid { max-width: 1300px; margin-left: auto; margin-right: auto; }
 .navbar .brand { padding-top: 5px; padding-bottom: 3px; }
 input.btn, button.btn { font-weight: normal; }
 .navbar { background-color: #323963; position: relative; margin-bottom: 15px; }
